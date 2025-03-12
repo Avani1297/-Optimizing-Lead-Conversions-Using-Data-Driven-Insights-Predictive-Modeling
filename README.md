@@ -27,7 +27,7 @@ Using EDA, statistical testing, and predictive modeling, we uncover actionable s
 ## 🚀 How to Use This Repo
 1️⃣ Clone the repository.  
 2️⃣ Open Jupyter notebooks to explore data analysis & modeling.   
-3️⃣ Review key findings in Insights_Report.pdf.  
+3️⃣ Review key findings in Lead Conversion_CaseStudy.pdf.  
 
 ## 💬 Let's Connect!  
 Have thoughts on lead quality optimization? Let’s discuss best practices! 🚀
